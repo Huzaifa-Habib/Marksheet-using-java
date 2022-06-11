@@ -1,0 +1,284 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parent{
+    border: 3px solid gray !important;
+    margin-top: 20px;
+    padding: 20px;
+    width: 85%;
+    margin-left: 30px;
+    background-color: rgba(235, 235, 235, 0.63);
+}
+
+.slip{
+    justify-content: center;
+    width: 60%;
+    margin-left: 250px;
+    font-family: cursive;
+    
+
+}
+
+.kar{
+    margin-left: 420px;
+    line-height: 1px;
+    font-family: cursive;
+    padding-bottom: 10px;
+}
+
+.v{
+    text-align: center;
+    line-height: 4px;
+    /* padding-top: 1px; */
+}
+
+.exa{
+    display: flex;
+    flex-direction: row;
+}
+
+#roll{
+    margin-left: 200px;
+}
+
+/* .nam ,.group{
+    /* font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    text-indent: 20px;
+} */ */
+
+.child{
+    /* border: 3px solid gray !important; */
+    width: 85%;
+
+}
+
+.header{
+    display: flex;
+    flex-direction: row; 
+    border: 3px solid gray !important;
+
+}
+
+
+
+.subject{
+    border-right: 3px solid gray;
+    width: 40%;
+
+}
+.subject h3{
+    padding: 5px;
+    border-bottom: 3px solid gray; 
+    text-align: center;
+}
+
+
+
+.list{
+    list-style: none;
+    font-size: 18px;
+    padding: 0px;
+    font-weight: bold;
+    color: rgb(49, 49, 49);
+    border-bottom:3px solid gray;
+}
+
+.list li{
+    padding: 15px;
+}
+
+.max li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+
+}
+
+.max{
+    border-left: 3px solid gray;
+}
+
+.maxi{
+    border-bottom: 3px solid gray;
+     
+
+}
+
+
+
+.total{
+    font-size: 18px;
+    font-weight: bold;
+    text-indent:  12px;
+    /* border-bottom: 3px solid gray; */
+}
+
+.rem{
+    font-size: 18px;
+    font-weight: bold;
+    text-indent:  8px;
+    border-right: 3px solid gray;
+    width: 30.9%; 
+    height: 50px;
+    padding: 5px;
+    /* text-align: center; */
+   
+
+}
+
+#maths{
+    font-size: 18px;
+    font-weight: bold;
+    /* padding: 15px; */
+    /* margin-top: 35px; */
+}
+
+.obtmarks{
+    /* text-align: center; */
+    /* border-right: 3px solid gray; */
+    width: 25%;
+}
+
+.obt{
+    
+    padding:5px ;
+    border-bottom:3px solid gray ;
+    /* border-right: 3px solid gray; */
+
+    
+}
+
+.max{
+    border-right: 3px solid gray;
+    width: 19%;
+}
+
+.max h3{
+  
+    border-bottom:3px solid gray ;
+    padding:5px ;
+    text-align: center;
+}
+
+.percent{
+    border-right: 3px solid gray;
+    width: 20%;
+    text-align: center;
+
+}
+
+.percent h3{
+   
+    border-bottom:3px solid gray ;
+    padding:5px ;
+
+}
+
+.grade{
+    width: 20%;
+
+}
+
+.grade h3{
+    text-align: center;
+    border-bottom:3px solid gray ;
+    padding:5px ;
+
+}
+
+.marks{
+    text-align: center;
+    /* padding: 15px; */
+     /* border-bottom: 3px solid gray; */
+}
+
+.marks p{
+    padding: 9.1px;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+#eng{
+    border-bottom: 3px solid gray;
+    /* padding-top: 15px; */
+
+}
+
+.result{
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    /* border-bottom: 3px solid gray; */
+}
+
+.tot{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    /* border-bottom: 3px solid gray; */
+    text-indent: 20px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#perr{
+    border-right: 3px solid gray;
+    width: 35.1%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 20px;
+
+}
+
+.pp{
+    font-size: 18px;
+    font-weight: bold;
+    /* border-bottom: 3px solid gray; */
+    height: 214px;
+
+}
+
+.pp p{
+    padding: 8px;
+}
+
+.zoe{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    /* border-bottom: 3px solid gray; */
+    height: 214px;
+    
+}
+
+.zoe p{
+    padding: 8px;
+
+}
+
+.word{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#zoco{
+    text-align: center;
+    margin-left: 120px;
+}
+
+
+
+
